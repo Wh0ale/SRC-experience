@@ -4,6 +4,7 @@
 然后还有一些国外新技术的学习网站分享给大家
 <https://www.bugbountynotes.com/training>
 <https://pentester.land/newsletter/2019/02/12/the-5-hacking-newsletter-40.html>
+
 **从别的地方扒来一些案例和知识点**
 * [bugbountyguide](https://github.com/EdOverflow/bugbountyguide)
 * [awesome-bug-bounty](https://github.com/djadmin/awesome-bug-bounty) - A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug Bounty hunters
