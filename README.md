@@ -2,8 +2,8 @@
 工欲善其事，必先利其器
 最近收集到的一些src挖掘奇技淫巧，
 然后还有一些国外新技术的学习网站分享给大家。
-<https://www.bugbountynotes.com/training>
 
+<https://www.bugbountynotes.com/training>
 <https://pentester.land/newsletter/2019/02/12/the-5-hacking-newsletter-40.html>
 
 **从别的地方扒来一些案例和知识点**
