@@ -1,0 +1,132 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+app.etao.com	180.96.11.188,180.96.11.189,222.186.49.214	80,443	Tengine	80:正常访问
+1111.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+baby.etao.com	106.11.211.227	80,443	Tengine/Aserver	80:正常访问
+book.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+cz.etao.com	180.96.11.188,222.186.49.214,180.96.11.189	80,443	Tengine	80:正常访问
+daogou.etao.com	106.11.211.227	80,443	Tengine/Aserver	80:正常访问
+dacu.etao.com	180.96.11.189,222.186.49.215,180.96.11.188	80,443	Tengine/Aserver	80:正常访问
+blog.haiwai.etao.com	106.11.61.7	80	Tengine	80:正常访问
+466.etao.com	110.75.83.31	-	端口未开放	端口未开放
+360.etao.com	110.75.83.31	-	端口未开放	端口未开放
+e.etao.com	106.11.211.227	80,443	Tengine/Aserver	80:正常访问
+category.etao.com	110.75.65.22	-	端口未开放	端口未开放
+f.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+faxian.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+food.etao.com	106.11.211.227	80,443	Tengine/Aserver	80:正常访问
+haitao.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+huoyan.etao.com	180.96.11.188,180.96.11.189,222.186.49.215	80,443	Tengine	80:正常访问
+ally.etao.com	106.11.61.141,140.205.248.8,106.11.248.2,140.205.61.87	80,443	获取失败	80:-
+h5.etao.com	203.119.206.103,203.119.216.248	80	Tengine	80:(404) 未找到
+duba.etao.com	110.75.83.31	-	端口未开放	端口未开放
+dx.etao.com	42.156.210.82	-	端口未开放	端口未开放
+jia.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+jiadian.etao.com	106.11.211.227	80,443	Tengine/Aserver	80:正常访问
+lady.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+leyiduo.etao.com	222.186.49.215,180.96.11.188,180.96.11.189	80,443	Tengine	80:正常访问
+dianping.etao.com	42.156.210.105	-	端口未开放	端口未开放
+et.etao.com	110.75.83.24	-	端口未开放	端口未开放
+logitech.etao.com	222.186.49.214,180.96.11.188,180.96.11.189	80,443	Tengine	80:正常访问
+living.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+login.etao.com	106.11.211.227	80,443	Tengine/Aserver	80:正常访问
+m.etao.com	203.119.205.247	80,443	Tengine/Aserver	80:正常访问
+man.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+game.etao.com	110.75.29.174	-	端口未开放	端口未开放
+pk.etao.com	203.119.205.247	80,443	Tengine/Aserver	80:正常访问
+opensearch.etao.com	121.40.13.96	80	Tengine	80:正常访问
+kezhan.etao.com	110.75.18.51	-	端口未开放	端口未开放
+sale.etao.com	203.119.213.2	80,443	Tengine/Aserver	80:正常访问
+sandbox.shop.etao.com	140.205.155.56	80	Tengine/2.1.0	80:(500) 内部服务器错误
+list.etao.com	110.75.65.22	-	端口未开放	端口未开放
+saleoff.etao.com	203.119.215.106	80,443	Tengine/Aserver	80:正常访问
+i.etao.com	140.205.248.8,106.11.61.141,140.205.61.87,106.11.248.2	80,443	获取失败	80:-
+temai.etao.com	106.11.61.141,140.205.248.8,106.11.248.2,140.205.61.87	80,443	Tengine/Aserver	80:(404) 未找到
+sports.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+vip.etao.com	106.11.61.141,140.205.61.87,140.205.248.8,106.11.248.2	80,443	Tengine/Aserver	80:(404) 未找到
+wan.etao.com	106.11.248.2,140.205.248.8,140.205.61.87,106.11.61.141	80,443	Tengine/Aserver	80:(502) 错误的网关
+wanke.etao.com	106.11.61.141,140.205.61.87,106.11.248.2,140.205.248.8	80,443	Tengine/Aserver	80:(502) 错误的网关
+h5.m.etao.com	140.205.155.57	80	获取失败	80:-
+ruyi.etao.com	140.205.136.15	-	端口未开放	端口未开放
+week.etao.com	180.96.11.188,222.186.49.214,180.96.11.189	80,443	Tengine	80:正常访问
+www.520.etao.com	220.170.91.121,220.170.91.111	80,443	Tengine	80:正常访问
+detail.etao.com	106.11.248.2,140.205.248.8,106.11.61.141,140.205.61.87	80,443	获取失败	80:-
+www.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+youhui.etao.com	222.186.49.215,180.96.11.188,180.96.11.189	80,443	Tengine	80:正常访问
+you.etao.com	222.186.49.215,180.96.11.188,180.96.11.189	80,443	Tengine	80:正常访问
+yao.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+top.etao.com	140.205.248.8,106.11.248.2,106.11.61.141,140.205.61.87	80,443	Tengine/Aserver	80:(420)
+web.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+idata.etao.com	140.205.155.56	80	获取失败	80:-
+tuan.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+open.etao.com	140.205.155.57	80	获取失败	80:-
+s.wapa.etao.com	110.75.25.197	-	端口未开放	端口未开放
+ok.etao.com	106.11.61.141,106.11.248.2,140.205.61.87,140.205.248.8	80,443	Tengine/Aserver	80:(500) 内部服务器错误
+haier.etao.com	222.186.49.214,180.96.11.189,180.96.11.188	80,443	Tengine	80:正常访问
+s.etao.com	203.119.244.125	80,443	Tengine/Aserver	80:正常访问
+like.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+price.etao.com	203.119.207.250	80,443	Tengine/Aserver	80:正常访问
+beauty.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+3c.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+fanli.etao.com	106.11.223.92	80,443	Tengine/Aserver	80:正常访问
+search.etao.com	110.75.29.131	-	端口未开放	端口未开放
+testing.etao.com	42.156.210.103	-	端口未开放	端口未开放
+email.etao.com	61.147.84.45	80,443	nginx	80:(403) 已禁止
+zhi.etao.com	42.156.210.82	-	端口未开放	端口未开放
+ux.etao.com	140.205.243.70	80,443	获取失败	80:-
+shop.m.etao.com	106.11.248.2,106.11.61.141,140.205.248.8,140.205.61.87	80,443	获取失败	80:-
+error.etao.com	180.97.17.16,180.96.11.155,180.101.150.24,180.97.245.108,180.101.150.23,61.147.223.152,180.97.245.107,61.147.223.151,180.96.11.154	80,443	Tengine	80:正常访问
+mobile.etao.com	203.119.215.106	80,443	Tengine	80:正常访问
+a.etao.com	106.11.210.201	-	端口未开放	端口未开放
+pass.etao.com	203.119.207.250	80,443	Tengine/Aserver	80:(404) 未找到
+abc.etao.com	110.75.83.31	-	端口未开放	端口未开放
+shop.etao.com	106.11.61.141,106.11.248.2,140.205.61.87,140.205.248.8	80,443	获取失败	80:-
+mail.etao.com	208.70.139.25	-	端口未开放	端口未开放
+admin.etao.com	100.67.79.137	-	端口未开放	端口未开放
+youxi.etao.com	110.75.29.174	-	端口未开放	端口未开放
+my.etao.com	106.11.61.141,106.11.248.2,140.205.61.87,140.205.248.8	80,443	获取失败	80:-
+security.etao.com	110.75.66.7	-	端口未开放	端口未开放
+monitor.etao.com	42.156.202.136	-	端口未开放	端口未开放
+balance.etao.com	42.156.167.23	-	端口未开放	端口未开放
+li.etao.com	121.14.24.241	80,443	Tengine	80:(502) 错误的网关
+mo.etao.com	106.11.223.97	80,443	Tengine/Aserver	80:正常访问
+go.etao.com	110.75.83.31	-	端口未开放	端口未开放
+data.etao.com	140.205.155.56	80	获取失败	80:-
+th.etao.com	121.14.24.241	80,443	Tengine	80:(502) 错误的网关
+talk.etao.com	140.205.155.57	80	获取失败	80:-
+people.etao.com	110.75.83.31	-	端口未开放	端口未开放
+want.etao.com	140.205.136.15	-	端口未开放	端口未开放
+suggest.etao.com	140.205.142.24	-	端口未开放	端口未开放
+cup.etao.com	110.75.28.168	-	端口未开放	端口未开放
+rising.etao.com	110.75.83.31	-	端口未开放	端口未开放
+item.etao.com	110.75.18.61	-	端口未开放	端口未开放
+114la.etao.com	110.75.83.31	-	端口未开放	端口未开放
+1616.etao.com	110.75.83.31	-	端口未开放	端口未开放
+2345.etao.com	110.75.83.31	-	端口未开放	端口未开放
+api.m.etao.com	106.11.61.3	80	获取失败	80:-
+daxue.etao.com	42.156.210.82	-	端口未开放	端口未开放
+fenxi.etao.com	127.0.0.1	-	端口未开放	端口未开放
+feng.etao.com	110.75.28.138	-	端口未开放	端口未开放
+funshion.etao.com	110.75.83.31	-	端口未开放	端口未开放
+jingpin.etao.com	127.0.0.1	-	端口未开放	端口未开放
+ifeng.etao.com	110.75.83.31	-	端口未开放	端口未开放
+mingxing.etao.com	119.42.238.182,119.42.238.181	-	端口未开放	端口未开放
+o2o.etao.com	222.186.49.214,180.96.11.189,180.96.11.188	80,443	Tengine	80:正常访问
+mued.etao.com	110.75.118.22	-	端口未开放	端口未开放
+qingbao.etao.com	127.0.0.1	-	端口未开放	端口未开放
+paihang.etao.com	110.75.65.22	-	端口未开放	端口未开放
+rebate.etao.com	106.11.61.141,106.11.248.2,140.205.248.8,140.205.61.87	80,443	获取失败	80:-
+sogou.etao.com	110.75.83.31	-	端口未开放	端口未开放
+tiao.etao.com	140.205.61.87,140.205.248.8,106.11.61.141,106.11.248.2	80,443	获取失败	80:-
+waptest.etao.com	10.232.127.126	-	端口未开放	端口未开放
+xunlei.etao.com	110.75.83.31	-	端口未开放	端口未开放
+fa.etao.com	110.75.29.162,42.156.210.115	-	端口未开放	端口未开放
+hb.etao.com	110.75.28.165	-	端口未开放	端口未开放
+ur.etao.com	110.75.120.132	-	端口未开放	端口未开放
+auv.etao.com	106.11.61.141,106.11.248.2,140.205.61.87,140.205.248.8	80,443	获取失败	80:-
+ivy.etao.com	140.205.136.15	-	端口未开放	端口未开放
+mpp.etao.com	106.11.211.233	80,443	Cowboy	80:(404) 未找到
+mop.etao.com	110.75.83.31	-	端口未开放	端口未开放
+tmd.etao.com	140.205.36.3	80	Tengine	80:(500) 内部服务器错误
+through.etao.com	106.11.223.97	80,443	获取失败	80:-
+dp.etao.com	222.186.49.215,180.96.11.189,180.96.11.188	80,443	获取失败	80:-
+chat.etao.com	203.119.205.150	80,443	获取失败	80:-

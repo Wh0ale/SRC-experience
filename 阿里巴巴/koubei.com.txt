@@ -1,0 +1,48 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+bbs.koubei.com	203.119.215.107	80,443	Tengine/Aserver	80:(404) 未找到
+ditu.koubei.com	203.119.212.2	80,443	Tengine/Aserver	80:(404) 未找到
+help.koubei.com	110.75.139.2,110.75.231.7	80,443	Tengine/2.1.0	80:(404) 未找到
+life.koubei.com	175.6.249.114,175.6.249.115	80,443	Tengine	80:正常访问
+www.koubei.com	175.6.249.114,175.6.249.115	80,443	Tengine	80:正常访问
+webmail.koubei.com	42.156.140.97	80,443	Tengine	80:正常访问
+m.koubei.com	175.6.249.114,175.6.249.115	80,443	Tengine	80:正常访问
+i.koubei.com	203.119.217.93,203.119.204.152	80	Tengine	80:正常访问
+my.koubei.com	203.119.217.93,203.119.204.152	80	Tengine	80:正常访问
+ns2.koubei.com	110.76.33.53	-	端口未开放	端口未开放
+smtp.koubei.com	140.205.121.207	-	端口未开放	端口未开放
+ns1.koubei.com	110.76.33.52	-	端口未开放	端口未开放
+live.koubei.com	175.6.249.114,175.6.249.115	80,443	Tengine	80:正常访问
+ns3.koubei.com	122.224.105.200	-	端口未开放	端口未开放
+ns4.koubei.com	122.224.105.201	-	端口未开放	端口未开放
+d.koubei.com	175.6.249.114,175.6.249.115	80,443	Tengine	80:正常访问
+imap.koubei.com	140.205.121.207	-	端口未开放	端口未开放
+data.koubei.com	103.52.198.236	-	端口未开放	端口未开放
+image.koubei.com	110.76.33.15	-	端口未开放	端口未开放
+hermes.koubei.com	175.6.249.115,175.6.249.114	80,443	Tengine	80:正常访问
+client.koubei.com	110.76.33.29	-	端口未开放	端口未开放
+hq.koubei.com	175.6.249.115,175.6.249.114	80,443	Tengine	80:(404) 未找到
+work.koubei.com	106.11.250.24	80,443	Tengine/2.1.0	80:(500) 内部服务器错误
+design.koubei.com	175.6.249.114,175.6.249.115	80,443	Tengine	80:正常访问
+pop3.koubei.com	140.205.121.207	-	端口未开放	端口未开放
+play.koubei.com	110.75.129.1,110.76.30.69	80,443	Tengine/2.1.0	80:正常访问
+open.koubei.com	175.6.249.115,175.6.249.114	80,443	Tengine	80:正常访问
+ex.koubei.com	140.205.121.136	-	端口未开放	端口未开放
+mall.koubei.com	110.76.30.76,110.75.139.2,110.75.129.2,110.75.231.7	80,443	Tengine/2.1.0	80:正常访问
+pass.koubei.com	203.119.207.224	80	Tengine/Aserver	80:(404) 未找到
+merchant.koubei.com	175.6.249.115,175.6.249.114	80,443	Tengine	80:正常访问
+ka.koubei.com	118.178.213.158	80,443		80:正常访问
+mgw.koubei.com	118.178.213.158	80,443	获取失败	80:-
+qr.koubei.com	110.75.139.2,110.75.231.7	80,443	Tengine/2.1.0	80:(404) 未找到
+apm.koubei.com	47.110.179.148	80,443		80:正常访问
+mentor.koubei.com	175.6.249.115,175.6.249.114	80,443	Tengine	80:正常访问
+startup.koubei.com	175.6.249.114,175.6.249.115	80,443	Tengine	80:(404) 未找到
+rule.koubei.com	175.6.249.115,175.6.249.114	80,443	Tengine	80:正常访问
+fork.koubei.com	10.210.20.73	-	端口未开放	端口未开放
+render.koubei.com	175.6.249.114,175.6.249.115	80,443	Tengine	80:正常访问
+ladybug.koubei.com	175.6.249.115,175.6.249.114	80,443	Tengine	80:正常访问
+xue.koubei.com	110.75.139.2,110.75.231.7	80,443	Tengine/2.1.0	80:正常访问
+digger.koubei.com	47.110.200.243	80,443		80:正常访问
+xuexi.koubei.com	47.99.186.213	80	nginx/1.10.3 (Ubuntu)	80:正常访问
+cloudapi.koubei.com	118.178.213.158	80,443	获取失败	80:-
+fenxiang.koubei.com	110.75.26.50,110.75.33.39	-	端口未开放	端口未开放
+fuwu.koubei.com	110.75.129.1,110.76.30.69	80,443	获取失败	80:-

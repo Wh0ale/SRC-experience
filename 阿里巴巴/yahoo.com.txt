@@ -1,0 +1,434 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+180search.yahoo.com	31.13.66.6	-	端口未开放	端口未开放
+ads.yahoo.com	106.10.231.44,106.10.198.33	80,443	ATS	80:(502) 错误的网关
+add.my.yahoo.com	124.108.103.104,124.108.103.103	80,443	ATS	80:正常访问
+advertising.yahoo.com	106.10.218.146	80,443	Apache	80:正常访问
+apple.imap.mail.yahoo.com	106.10.231.25,106.10.249.76	-	端口未开放	端口未开放
+apps.search.yahoo.com	69.171.227.37	-	端口未开放	端口未开放
+answers.yahoo.com	87.248.118.22,87.248.118.23	80,443	ATS	80:正常访问
+ar.babelfish.yahoo.com	98.136.101.175	80,443	ATS	80:正常访问
+antispam.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(500) 内部服务器错误
+ar.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:正常访问
+ar.overview.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(500) 内部服务器错误
+answer.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+asia.news.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:(404) 未找到
+asia.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+ar.groups.yahoo.com	87.248.118.22,87.248.118.23	80,443	ATS	80:正常访问
+ar.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:正常访问
+asia.groups.yahoo.com	87.248.118.22,87.248.118.23	80,443	ATS	80:正常访问
+att.overview.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(500) 内部服务器错误
+att.yahoo.com	212.82.100.141	80,443	nginx	80:正常访问
+att.software.yahoo.com	212.82.100.141	80,443	nginx	80:正常访问
+ar.messenger.yahoo.com	87.248.114.11,87.248.114.12	80,443	ATS	80:正常访问
+au.avatars.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+au.advertising.yahoo.com	74.125.47.118	-	端口未开放	端口未开放
+au.blogs.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+au.answers.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:正常访问
+au.blog.360.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+au.astrology.yahoo.com	212.82.100.152	80,443	ATS	80:(404) 未找到
+au.address.yahoo.com	87.248.100.136,87.248.100.137	80,443	ATS	80:正常访问
+au.everything.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+au.forums.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+au.entertainment.yahoo.com	212.82.100.152	80,443	ATS	80:(404) 未找到
+au.dir.groups.yahoo.com	67.195.205.48	-	端口未开放	端口未开放
+au.babelfish.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:正常访问
+au.greetings.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+au.f2.pg.briefcase.yahoo.com	98.136.101.175	80,443	ATS	80:正常访问
+au.careers.yahoo.com	87.248.118.23,87.248.118.22	80,443	Apache	80:正常访问
+ar.finance.yahoo.com	87.248.116.12,87.248.116.11	80,443	获取失败	80:-
+au.finance.search.yahoo.com	69.171.244.11	-	端口未开放	端口未开放
+au.finance.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:(404) 未找到
+au.geocities.yahoo.com	106.10.248.150	80	获取失败	80:-
+au.mobile.yahoo.com	106.10.218.146	80,443	ATS	80:正常访问
+au.my.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+au.lifestyle.yahoo.com	180.222.102.151,124.108.115.98	80,443	ATS	80:(404) 未找到
+au.images.search.yahoo.com	173.252.73.48	-	端口未开放	端口未开放
+au.news.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+au.news.search.yahoo.com	31.13.74.1	-	端口未开放	端口未开放
+au.notepad.yahoo.com	87.248.116.12,87.248.116.11	80,443	ATS	80:(404) 未找到
+au.travel.yahoo.com	212.82.100.152	80,443	ATS	80:(404) 未找到
+au.widgets.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+au.safely.yahoo.com	87.248.116.11,87.248.116.12	80,443	ATS	80:正常访问
+au.tv.search.yahoo.com	75.126.124.162	-	端口未开放	端口未开放
+au.weather.yahoo.com	212.82.100.152	80,443	ATS	80:(404) 未找到
+au.tv.yahoo.com	212.82.100.152	80,443	ATS	80:(404) 未找到
+au.yhs.search.yahoo.com	31.13.85.8	-	端口未开放	端口未开放
+au.yhs4.search.yahoo.com	199.59.148.97	-	端口未开放	端口未开放
+auctions.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+auctions.shopping.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+au.prime7.yahoo.com	212.82.100.151	80,443	Microsoft-IIS/10.0	80:正常访问
+at.babelfish.yahoo.com	106.10.248.150	80	获取失败	80:-
+autos.dir.groups.yahoo.com	67.195.205.48	-	端口未开放	端口未开放
+au.alpha.yahoo.com	106.10.248.150	80	获取失败	80:-
+autos.groups.yahoo.com	67.195.205.48	-	端口未开放	端口未开放
+au.dir.yahoo.com	106.10.248.150	80	获取失败	80:-
+au.docs.yahoo.com	106.10.248.150	80	获取失败	80:-
+be.yahoo.com	124.108.103.103,124.108.103.104	80,443	ATS	80:正常访问
+beta.answers.yahoo.com	87.248.118.23,87.248.118.22	80,443	ATS	80:正常访问
+basketball.fantasysports.yahoo.com	87.248.118.23,87.248.118.22	80,443	ATS	80:正常访问
+baseball.fantasysports.yahoo.com	87.248.118.23,87.248.118.22	80,443	ATS	80:正常访问
+beta.hk.screen.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+au.google.yahoo.com	106.10.248.150	80	获取失败	80:-
+beta.finance.yahoo.com	87.248.116.11,87.248.116.12	80,443	ATS	80:(404) 未找到
+beta.sg.news.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:(404) 未找到
+beta.hk.ent.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+beta.tw.screen.yahoo.com	106.10.248.150	80	ATS	80:(404) 未找到
+beta.tw.house.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+beta.tw.news.yahoo.com	31.13.73.1	-	端口未开放	端口未开放
+billpayinfo.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:(404) 未找到
+beta.tw.fashion.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+blog.pipes.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+biz.yahoo.com	87.248.114.11,87.248.114.12	80,443	ATS	80:(404) 未找到
+beta.messenger.yahoo.com	87.248.114.11,87.248.114.12	80,443	ATS	80:正常访问
+blog.search.yahoo.com	69.171.244.11	-	端口未开放	端口未开放
+br.antispam.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(500) 内部服务器错误
+br.answers.yahoo.com	87.248.118.22,87.248.118.23	80,443	ATS	80:正常访问
+br.esportes.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+br.financas.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+autoshow.yahoo.com	106.10.248.150	80	获取失败	80:-
+br.finance.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:(404) 未找到
+br.groups.yahoo.com	87.248.116.11,87.248.116.12	80,443	ATS	80:正常访问
+br.babelfish.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+br.images.search.yahoo.com	66.220.152.17	-	端口未开放	端口未开放
+babelfish.cn.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+br.yahoo.com	124.108.103.104,124.108.103.103	80,443	ATS	80:正常访问
+br.overview.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(500) 内部服务器错误
+beijing.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+br.omg.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+billing.finance.yahoo.com	87.248.114.12,87.248.114.11	80,443	获取失败	80:-
+br.tecnologia.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+ca.avatars.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+ca.babelfish.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+beta.tw.omg.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+ca.everything.yahoo.com	98.136.101.175	80,443	ATS	80:(404) 未找到
+ca.biz.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:(404) 未找到
+ca.geocities.yahoo.com	106.10.248.150	80	获取失败	80:-
+beta.groups.yahoo.com	67.195.205.48	443	获取失败	443:-
+ca.finance.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:(404) 未找到
+ca.celebrity.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+ca.movies.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+ca.news.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+ca.my.yahoo.com	124.108.103.104,124.108.103.103	80,443	ATS	80:正常访问
+ca.images.search.yahoo.com	67.228.37.26	-	端口未开放	端口未开放
+ca.groups.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:正常访问
+blog.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+ca.style.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+ca.news.finance.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:(404) 未找到
+ca.omg.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+ca.sports.yahoo.com	87.248.118.23,87.248.118.22	80,443	ATS	80:(404) 未找到
+ca.weather.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:(404) 未找到
+ca.overview.mail.yahoo.com	87.248.100.136,87.248.100.137	80,443	ATS	80:(500) 内部服务器错误
+ca.us.biz.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:(404) 未找到
+ca.video.search.yahoo.com	31.13.78.65	-	端口未开放	端口未开放
+calendar.mail.yahoo.com	87.248.118.22,87.248.118.23	80,443	ATS	80:(404) 未找到
+ca.yhs.search.yahoo.com	69.171.235.101	-	端口未开放	端口未开放
+ca.yhs4.search.yahoo.com	67.15.129.210	-	端口未开放	端口未开放
+cade.search.yahoo.com	69.171.229.28	-	端口未开放	端口未开放
+cf.babelfish.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+cf.my.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+ch.search.yahoo.com	75.126.33.156	-	端口未开放	端口未开放
+chfr.search.yahoo.com	208.43.170.231	-	端口未开放	端口未开放
+chinese.finance.yahoo.com	98.136.101.175	80,443	ATS	80:(404) 未找到
+cl.images.search.yahoo.com	174.37.154.236	-	端口未开放	端口未开放
+cn.antispam.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(500) 内部服务器错误
+ca.people.yahoo.com	106.10.248.150	80	获取失败	80:-
+cade.babelfish.yahoo.com	106.10.248.150	80	获取失败	80:-
+cn.greetings.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+cn.mc921.mail.yahoo.com	106.10.249.69	-	端口未开放	端口未开放
+cn.mc159.mail.yahoo.com	106.10.249.69	-	端口未开放	端口未开放
+cn.mc922.mail.yahoo.com	106.10.249.69	-	端口未开放	端口未开放
+ch.babelfish.yahoo.com	106.10.248.150	80	获取失败	80:-
+cn.mc924.mail.yahoo.com	106.10.249.69	-	端口未开放	端口未开放
+cn.my.yahoo.com	98.136.103.23,74.6.136.150,212.82.100.150	80	ATS	80:正常访问
+cn.overview.mail.yahoo.com	87.248.100.136,87.248.100.137	80,443	ATS	80:(500) 内部服务器错误
+cn.search.yahoo.com	208.101.48.171	-	端口未开放	端口未开放
+cn.websearch.yahoo.com	31.13.79.1	-	端口未开放	端口未开放
+cm.de.my.yahoo.com	87.248.118.22,87.248.118.23	80,443	ATS	80:尝试自动重定向的次数太多
+cm.tw.my.yahoo.com	87.248.118.22,87.248.118.23	80,443	ATS	80:尝试自动重定向的次数太多
+cm.fr.my.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:尝试自动重定向的次数太多
+contest.finance.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+cn.briefcase.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+de.auctions.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+ct.yahoo.com	98.136.101.175	80,443	ATS	80:正常访问
+cricket.yahoo.com	212.82.100.141	80,443	Microsoft-IIS/10.0	80:正常访问
+de.answers.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:正常访问
+de.docs.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+de.cars.yahoo.com	98.136.101.175	80,443	ATS	80:正常访问
+de.kino.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+de.lifestyle.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+de.eurosport.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+de.mobile.yahoo.com	106.10.218.146	80,443	ATS	80:正常访问
+de.omg.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+de.screen.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+de.stars.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+de.reisen.yahoo.com	98.136.101.175	80,443	ATS	80:(404) 未找到
+de.travel.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:(404) 未找到
+de.movies.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+de.search.yahoo.com	69.171.234.48	-	端口未开放	端口未开放
+cn.yahoo.com	212.82.100.150,98.136.103.23,74.6.136.150	80	获取失败	80:-
+de.tv.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:(404) 未找到
+design.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+dixiechicks.launch.yahoo.com	106.10.248.150	80	-	80:(400) 错误的请求
+discuss.pipes.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+dir.search.yahoo.com	69.63.189.16	-	端口未开放	端口未开放
+desktop.yahoo.com	106.10.248.150	80	cloudflare	80:正常访问
+download.blog.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+e1.overview.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(500) 内部服务器错误
+edit.my.yahoo.com	67.195.204.151	80,443	ATS	80:(502) 错误的网关
+en-maktoob.news.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+en-maktoob.yahoo.com	124.108.103.103,124.108.103.104	80,443	获取失败	80:-
+en-maktoob.screen.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+de.local.yahoo.com	212.82.100.137	80,443	获取失败	80:-
+de.maps.yahoo.com	98.136.144.138	80,443	获取失败	80:-
+es.astrology.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+es.babelfish.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+es.cine.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:(404) 未找到
+es.eurosport.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+es.finance.yahoo.com	87.248.116.12,87.248.116.11	80,443	ATS	80:(404) 未找到
+es.news.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:(404) 未找到
+es.mobile.yahoo.com	212.82.100.152	80,443	ATS	80:正常访问
+es.groups.yahoo.com	87.248.116.12,87.248.116.11	80,443	ATS	80:正常访问
+es.tiempo.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:(404) 未找到
+es.omg.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+es.tendencias.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+es.search.yahoo.com	31.13.86.1	-	端口未开放	端口未开放
+espanol.answers.yahoo.com	87.248.116.12,87.248.116.11	80,443	ATS	80:正常访问
+es-us.deportes.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+espanol.sports.yahoo.com	106.10.248.150	80	ATS	80:(404) 未找到
+espanol.groups.yahoo.com	87.248.118.23,87.248.118.22	80,443	ATS	80:正常访问
+espanol.search.yahoo.com	31.13.68.1	-	端口未开放	端口未开放
+es-us.finanzas.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+es-us.noticias.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+dk.groups.yahoo.com	67.195.205.48	443	获取失败	443:-
+downloads.yahoo.com	212.82.100.137	80,443	ATS	80:尝试自动重定向的次数太多
+fantasysports.yahoo.com	87.248.118.23,87.248.118.22	80,443	ATS	80:(404) 未找到
+a5.yahoo.com	204.71.200.45	-	端口未开放	端口未开放
+cz.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+la.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+no.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+lv.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+w.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+wp.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+www.yahoo.com	124.108.103.103,124.108.103.104	80,443	获取失败	80:-
+developer.yahoo.com	87.248.118.23,87.248.118.22	80,443	ATS	80:正常访问
+rss.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+feedback.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+book.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+new.yahoo.com	98.136.145.31	80,443	获取失败	80:-
+ps.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+group.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+class.yahoo.com	216.145.54.163	-	端口未开放	端口未开放
+id.yahoo.com	124.108.103.103,124.108.103.104	80,443	ATS	80:正常访问
+us.yahoo.com	124.108.103.103,124.108.103.104	80,443	ATS	80:正常访问
+groups.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:正常访问
+login.yahoo.com	67.195.204.151	80,443	获取失败	80:-
+360.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+tw.yahoo.com	124.108.103.104,124.108.103.103	80,443	获取失败	80:-
+hk.yahoo.com	124.108.103.103,124.108.103.104	80,443	获取失败	80:-
+map.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+search.yahoo.com	74.86.151.162	-	端口未开放	端口未开放
+agenda.yahoo.com	106.10.248.150	80	ATS	80:(404) 未找到
+adserver.yahoo.com	106.10.193.24	-	端口未开放	端口未开放
+banking.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:(404) 未找到
+brazil.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+cable.yahoo.com	106.10.248.150	80	获取失败	80:-
+bg.yahoo.com	98.136.96.140,98.136.101.175	80,443	ATS	80:正常访问
+ca.yahoo.com	124.108.103.104,124.108.103.103	80,443	ATS	80:正常访问
+business.yahoo.com	98.139.28.144	80	ATS	80:(404) 未找到
+code.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+dc.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+dns.yahoo.com	68.142.196.63	-	端口未开放	端口未开放
+digital.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+domain.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+gr.yahoo.com	124.108.103.103,124.108.103.104	80,443	ATS	80:正常访问
+gateway.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+hu.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+it.yahoo.com	124.108.103.103,124.108.103.104	80,443	ATS	80:正常访问
+india.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+juegos.yahoo.com	98.136.101.175	80,443	cloudflare	80:正常访问
+marketplace.yahoo.com	87.248.116.12,87.248.116.11	80,443	ATS	80:(404) 未找到
+marketing.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+ms.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+mci.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+local.yahoo.com	98.136.144.138	80,443	获取失败	80:-
+ns4.yahoo.com	98.138.11.157	-	端口未开放	端口未开放
+ns5.yahoo.com	119.160.253.83	-	端口未开放	端口未开放
+ops.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+office.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+maps.yahoo.com	212.82.100.137	80,443	获取失败	80:-
+pt.yahoo.com	212.82.100.141	80,443	ATS	80:正常访问
+ro.yahoo.com	124.108.103.103,124.108.103.104	80,443	ATS	80:正常访问
+seattle.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+se.yahoo.com	124.108.103.103,124.108.103.104	80,443	ATS	80:正常访问
+servers.yahoo.com	106.10.248.150	80	获取失败	80:-
+si.yahoo.com	98.136.101.175,98.136.96.140	80,443	ATS	80:正常访问
+site.yahoo.com	98.136.103.23,74.6.136.150,212.82.100.150	80	获取失败	80:-
+sk.yahoo.com	98.136.101.175	80,443	ATS	80:正常访问
+i3.yahoo.com	204.71.201.230	-	端口未开放	端口未开放
+i2.yahoo.com	204.71.201.214	-	端口未开放	端口未开放
+wwwmail.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+windows.yahoo.com	106.10.248.150	80	获取失败	80:-
+opinion.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+restaurant.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+pipe.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+policies.yahoo.com	87.248.118.22,87.248.118.23	80,443	ATS	80:正常访问
+kid.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+employment.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+bills.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+bond.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+traffic.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+neighbors.yahoo.com	106.10.248.150	80	获取失败	80:-
+quote.yahoo.com	212.82.100.141	80,443	ATS	80:(404) 未找到
+finance.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+stores.yahoo.com	98.139.28.145	80,443	获取失败	80:-
+frontier.yahoo.com	124.108.103.104,124.108.103.103	80,443	ATS	80:正常访问
+a18.yahoo.com	204.71.202.155	-	端口未开放	端口未开放
+comet.yahoo.com	98.137.159.48,66.218.84.141,66.218.84.140	80	-	80:(400) 错误的请求
+data.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(404) 未找到
+jstwjx._domainkey.yahoo.com	106.10.248.150	80	ATS	80:(400) 错误的请求
+mail._domainkey.yahoo.com	106.10.248.150	80	ATS	80:(400) 错误的请求
+mailo._domainkey.yahoo.com	106.10.248.150	80	ATS	80:(400) 错误的请求
+mirrors.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+p20.yahoo.com	204.71.202.127	-	端口未开放	端口未开放
+p19.yahoo.com	204.71.202.60	-	端口未开放	端口未开放
+p18.yahoo.com	204.71.202.61	-	端口未开放	端口未开放
+p17.yahoo.com	204.71.200.113	-	端口未开放	端口未开放
+tumblr.yahoo.com	106.10.218.146	80,443	ATS	80:(404) 未找到
+vendor.yahoo.com	87.248.118.23,87.248.118.22	80,443	ATS	80:正常访问
+fc.yahoo.com	87.248.114.12,87.248.114.11	80,443	ATS	80:(404) 未找到
+brb.yahoo.com	98.136.145.31	80,443	ATS	80:正常访问
+csp.yahoo.com	74.6.140.136	80,443	ATS	80:(502) 错误的网关
+dts.yahoo.com	67.195.228.138	-	端口未开放	端口未开放
+geo.yahoo.com	180.222.102.148	80,443	ATS	80:(404) 未找到
+tsc.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+udc.yahoo.com	87.248.100.136,87.248.100.137	80,443	ATS	80:(403) 已禁止
+yf1.yahoo.com	68.142.254.15	-	端口未开放	端口未开放
+yf2.yahoo.com	68.180.130.15	-	端口未开放	端口未开放
+guce.yahoo.com	18.136.6.24,52.77.147.156,52.221.104.2	443	guce	443:(404) 未找到
+udcm.yahoo.com	87.248.100.137,87.248.100.136	80,443	ATS	80:(403) 已禁止
+wwws.yahoo.com	106.10.248.150	80	ATS	80:正常访问
+yns1.yahoo.com	67.195.1.92	-	端口未开放	端口未开放
+yns2.yahoo.com	98.139.247.192	-	端口未开放	端口未开放
+ar.noticias.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+babelfish.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+ca.bookmarks.yahoo.com	106.10.248.150	80	获取失败	80:-
+ca.games.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+ca.tv.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+entertainment.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+education.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+dial.yahoo.com	106.10.248.150	80	获取失败	80:-
+es.yahoo.com	124.108.103.104,124.108.103.103	80,443	获取失败	80:-
+co.news.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+de.careers.yahoo.com	87.248.118.22,87.248.118.23	80,443	获取失败	80:-
+de.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	获取失败	80:-
+help.yahoo.com	87.248.116.11,87.248.116.12	80,443	获取失败	80:-
+espanol.greetings.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+w2.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+hotels.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+blog.messenger.yahoo.com	87.248.114.11,87.248.114.12	80,443	获取失败	80:-
+blog.games.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+de.messenger.yahoo.com	87.248.116.12,87.248.116.11	80,443	获取失败	80:-
+co.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+co.noticias.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+de.m.yahoo.com	87.248.114.12,87.248.114.11	80,443	获取失败	80:-
+e1.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+e1.messenger.yahoo.com	87.248.116.11,87.248.116.12	80,443	获取失败	80:-
+es.webmessenger.yahoo.com	87.248.114.11,87.248.114.12	80,443	获取失败	80:-
+mail.yahoo.com	87.248.118.22,87.248.118.23	80,443	获取失败	80:-
+correo.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+ye.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+ca.webmessenger.yahoo.com	87.248.118.22,87.248.118.23	80,443	获取失败	80:-
+co.mail.yahoo.com	87.248.100.136,87.248.100.137	80,443	获取失败	80:-
+d.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+beta.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+u.m.yahoo.com	87.248.118.22,87.248.118.23	80,443	获取失败	80:-
+parenting.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+cn.play.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+br.messenger.yahoo.com	87.248.114.11,87.248.114.12	80,443	获取失败	80:-
+axis.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+br.invites.yahoo.com	106.10.248.150	80	获取失败	80:-
+br.webmessenger.yahoo.com	87.248.114.12,87.248.114.11	80,443	获取失败	80:-
+data.m.yahoo.com	87.248.118.22,87.248.118.23	80,443	获取失败	80:-
+au.games.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+warehouse.yahoo.com	106.10.248.150	80	获取失败	80:-
+dsl.yahoo.com	106.10.248.150	80	获取失败	80:-
+br.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	获取失败	80:-
+bi.m.yahoo.com	87.248.114.12,87.248.114.11	80,443	获取失败	80:-
+cn.careers.yahoo.com	87.248.114.12,87.248.114.11	80,443	获取失败	80:-
+affiliates.yahoo.com	106.10.248.150	80	获取失败	80:-
+wifi.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+digu.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+ca.music.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+bookmarks.yahoo.com	106.10.248.150	80	获取失败	80:-
+browserplus.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+att.my.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+beta.toolbar.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+blog.360.yahoo.com	106.10.248.150	80	获取失败	80:-
+calendar.yahoo.com	87.248.118.23,87.248.118.22	80,443	获取失败	80:-
+avatars.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+taxes.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+parks.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+deal.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+tr.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+members.yahoo.com	106.10.248.150	80	获取失败	80:-
+au.wap.yahoo.com	87.248.116.11,87.248.116.12	80,443	获取失败	80:-
+howto.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+snow.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+es.my.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+co.messenger.yahoo.com	87.248.118.22,87.248.118.23	80,443	获取失败	80:-
+careers.yahoo.com	212.82.100.152	80,443	获取失败	80:-
+camp.yahoo.com	106.10.248.150	80	获取失败	80:-
+everything.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+cn.webmessenger.yahoo.com	87.248.116.12,87.248.116.11	80,443	获取失败	80:-
+en.ca.acer.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+pe.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+de.games.yahoo.com	212.82.100.152	80,443	获取失败	80:-
+cl.noticias.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+ca.oa.yahoo.com	87.248.118.22,87.248.118.23	80,443	获取失败	80:-
+ar.news.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+be.mail.yahoo.com	87.248.100.137,87.248.100.136	80,443	获取失败	80:-
+dsl.sbc.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+alliance.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+au.new.m.yahoo.com	87.248.114.11,87.248.114.12	80,443	获取失败	80:-
+omg.yahoo.com	98.136.101.175	80,443	获取失败	80:-
+cl.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+de.play.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+edit.yahoo.com	67.195.204.151	80,443	获取失败	80:-
+espanol.yahoo.com	124.108.103.103,124.108.103.104	80,443	获取失败	80:-
+w1.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+jobs.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+dictionary.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+ask.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+ca.travel.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+iris.yahoo.com	98.137.246.7,72.30.35.9,98.137.246.8,72.30.35.10,98.138.219.231,98.138.219.232	80	获取失败	80:-
+celebrity.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+dk.mail.yahoo.com	87.248.100.136,87.248.100.137	80,443	获取失败	80:-
+espanol.my.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+ar.finanzas.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+au.play.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+oss.m.yahoo.com	87.248.116.11,87.248.116.12	80,443	获取失败	80:-
+e1.mail.yahoo.com	87.248.100.136,87.248.100.137	80,443	获取失败	80:-
+cf.address.yahoo.com	87.248.100.136,87.248.100.137	80,443	获取失败	80:-
+home.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+flowers.yahoo.com	106.10.248.150	80	获取失败	80:-
+ca.wap.yahoo.com	87.248.116.11,87.248.116.12	80,443	获取失败	80:-
+gaa.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+communications.yahoo.com	212.82.100.150,124.108.115.100,98.136.103.23,74.6.136.150,106.10.248.150	80	获取失败	80:-
+ca.toolbar.yahoo.com	106.10.248.150	80	获取失败	80:-
+compose.mail.yahoo.com	87.248.100.136,87.248.100.137	80,443	获取失败	80:-
+de.my.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+cn.toolbar.yahoo.com	106.10.248.150	80	获取失败	80:-
+ch.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+broadband.yahoo.com	106.10.248.150	80	获取失败	80:-
+briefcase.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+de.yahoo.com	124.108.103.103,124.108.103.104	80,443	获取失败	80:-
+dk.babelfish.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+ca.careers.yahoo.com	87.248.118.22,87.248.118.23	80,443	获取失败	80:-
+ca.beta.messenger.yahoo.com	87.248.118.23,87.248.118.22	80,443	获取失败	80:-
+cl.news.yahoo.com	98.136.101.175,98.136.96.140	80,443	获取失败	80:-
+de.bookmarks.yahoo.com	106.10.248.150	80	获取失败	80:-
+email.yahoo.com	212.82.100.141	80,443	获取失败	80:-
+broadcast.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+de.spiele.yahoo.com	98.136.96.140,98.136.101.175	80,443	获取失败	80:-
+radio.yahoo.com	106.10.248.150	80	获取失败	80:-
+autos.yahoo.com	212.82.100.141	80,443	获取失败	80:-
