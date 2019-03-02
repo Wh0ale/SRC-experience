@@ -4,6 +4,7 @@
 然后还有一些国外新技术的学习网站分享给大家。
 
 <https://www.bugbountynotes.com/training>
+
 <https://pentester.land/newsletter/2019/02/12/the-5-hacking-newsletter-40.html>
 
 **从别的地方扒来一些案例和知识点**
@@ -31,4 +32,5 @@
 * [两种密码重置之综合利用](http://www.freebuf.com/articles/network/166520.html)
 * [任意用户密码重置](http://www.freebuf.com/articles/web/166667.html)
 * [通用性业务逻辑组合拳劫持你的权限](https://www.anquanke.com/post/id/106961)
+
 新的一年祝大家挖洞必高危。
