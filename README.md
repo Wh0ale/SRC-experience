@@ -1,14 +1,14 @@
 # SRC-experience
-工欲善其事，必先利其器
-最近收集到的一些src挖掘奇技淫巧，
-然后还有一些国外新技术的学习网站分享给大家。
+工欲善其事，必先利其器``
+最近收集到的一些src挖掘奇技淫巧，``
+然后还有一些国外新技术的学习网站分享给大家。``
 
 <https://www.bugbountynotes.com/training>
 
 <https://pentester.land/newsletter/2019/02/12/the-5-hacking-newsletter-40.html>
 
 <https://www.openbugbounty.org/>
-
+``
 
 **hackerone-reports**
 
@@ -58,7 +58,7 @@ https://github.com/EdOverflow/bugbountyguide
 https://github.com/AlexisAhmed/BugBountyToolkit
 https://github.com/e11i0t4lders0n/Bugbounty-Resources
 
-github.com/sushiwushi/bug-bounty-dorks
+https://github.com/sushiwushi/bug-bounty-dorks
 https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 https://github.com/1ndianl33t/Bug-Bounty-Roadmaps
 https://github.com/1ndianl33t/Bugbounty-Resources
