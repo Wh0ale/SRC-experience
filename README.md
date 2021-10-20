@@ -7,6 +7,9 @@
 
 <https://pentester.land/newsletter/2019/02/12/the-5-hacking-newsletter-40.html>
 
+<https://www.openbugbounty.org/>
+
+
 **hackerone-reports**
 
 [hackerone-reports](https://github.com/reddelexc/hackerone-reports)
