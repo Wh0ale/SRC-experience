@@ -167,14 +167,6 @@ https://github.com/doyensec/awesome-electronjs-hacking
 
 **从别的地方扒来一些案例和知识点**
 
-[SRC漏洞挖掘小见解](http://www.mottoin.com/95043.html)
-
-[面向SRC的漏洞挖掘总结](http://blkstone.github.io/2017/05/28/finding-src-vuls/)
-
-[漏洞挖掘经验分享Saviour](https://xianzhi.aliyun.com/forum/topic/1214/)
-
-[我的SRC之旅](https://mp.weixin.qq.com/s/2ORHnywrxXPexviUYk7Ccg)
-
 [浅析通过"监控"来辅助进行漏洞挖掘](https://bbs.ichunqiu.com/thread-28591-1-1.html)
 
 [威胁情报-生存在SRC平台中的刷钱秘籍](https://bbs.ichunqiu.com/article-921-1.html)
@@ -196,8 +188,6 @@ https://github.com/doyensec/awesome-electronjs-hacking
 [挖洞技巧：绕过短信&邮箱轰炸限制以及后续](http://mp.weixin.qq.com/s/5OSLC2GOeYere9_lT2RwHw)
 
 [挖洞技巧：信息泄露之总结](https://www.secpulse.com/archives/67123.html)
-
-[一些逻辑](https://secvul.com/topics/924.html)
 
 [OSS对象存储上传解析漏洞](https://xianzhi.aliyun.com/forum/topic/2078)
 
